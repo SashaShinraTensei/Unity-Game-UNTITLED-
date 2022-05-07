@@ -5,7 +5,7 @@
 
 ## ***UNTITLED***
 
->_Untitled_ is a <strong>2D</strong> top down <strong>RPG</strong> game developed by Shinra Tensei Games.
+>_Untitled_ is a <strong>2D Top Down Reverse Bullet-Hell RPG</strong> developed by Shinra Tensei Games.
 
 
 ### Features
