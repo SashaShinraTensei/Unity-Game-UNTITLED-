@@ -1,4 +1,4 @@
-# Unity-Game-2-_UNTITLED_-
+# #2 Unity Game Project _UNTITLED_
 
 >My second unity game project. Name is TBD (hence untitled). Project Initiated on 07/05/22
 
