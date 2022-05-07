@@ -10,10 +10,17 @@
 
 ### Features
 
->✅
->
->✅
->
->✅
+- ✅
+- ✅
+- ✅
+
+
+### ASSETS LIST:
+- Players sprite.
+- Enemies sprite.
+- Map tiles.
+- Backgrounds.
+- Sounds.
 
 ### Creadits
+
