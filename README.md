@@ -16,8 +16,8 @@
 
 
 ### ASSETS LIST:
-- Players sprite.
-- Enemies sprite.
+- Players sprites.
+- Enemies sprites.
 - Map tiles.
 - Backgrounds.
 - Sounds.
