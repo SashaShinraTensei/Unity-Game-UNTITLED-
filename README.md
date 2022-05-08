@@ -17,7 +17,7 @@
 
 ### ASSETS LIST:
 - Character sprties
-  - Players
+  - [ ] Players
   - Enemies
 - Item sprites.
   - Weapons
