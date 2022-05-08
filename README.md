@@ -16,20 +16,21 @@
 
 
 ### ASSETS LIST:
-- Character sprties
+- [ ] Character sprties
   - [ ] Players
-  - Enemies
-- Item sprites.
-  - Weapons
-  - Upgrades
-  - Collectables
-- Level design.
-  - Floor sprites.
-  - Map Tiles.
-- Backgrounds.
-- Sounds.
-  - Main menu sound.
-  - Gameplay sound.
+  - [ ] Enemies
+- [ ] Item sprites.
+  - [ ] Weapons
+  - [ ] Upgrades
+  - [ ] Collectables
+- [ ] Level design.
+  - [ ] Floor sprites.
+  - [ ] Map Tiles.
+- [ ] Backgrounds.
+- [ ] UI layout sketch.
+- [ ] Sounds.
+  - [ ] Main menu sound.
+  - [ ] Gameplay sound.
 
 ### Creadits
 
