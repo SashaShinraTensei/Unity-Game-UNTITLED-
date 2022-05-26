@@ -1,11 +1,11 @@
-# #2 Unity Game Project _UNTITLED_
+# #2 Unity Game Project _IMORTAL EVOLUTION_
 
->My second unity game project. Name is TBD (hence untitled). Project Initiated on 07/05/22
+>My second unity game project. Project Initiated on 07/05/22
 
 
-## ***UNTITLED***
+## ***IMORTAL EVOLUTION***
 
->_Untitled_ is a <strong>2D Top Down Reverse Bullet-Hell RPG</strong> developed by Shinra Tensei Games.
+>_Imortal Evolution_ is a <strong>2D Top Down Reverse Bullet-Hell RPG</strong> developed by Shinra Tensei Games.
 
 
 ### Features
