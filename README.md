@@ -1,4 +1,4 @@
-# #2 Unity Game Project _Imortal Evolution_
+# #2 Unity Game Project Imortal Evolution
 
 >My second unity game project. Project Initiated on 07/05/22
 
