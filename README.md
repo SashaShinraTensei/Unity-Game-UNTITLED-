@@ -1,9 +1,9 @@
-# #2 Unity Game Project _IMORTAL EVOLUTION_
+# #2 Unity Game Project _Imortal Evolution_
 
 >My second unity game project. Project Initiated on 07/05/22
 
 
-## ***Imortal Evolution***
+## ***IMORTAL EVOLUTION***
 
 >_Imortal Evolution_ is a <strong>2D Top Down Reverse Bullet-Hell RPG</strong> developed by Shinra Tensei Games.
 
